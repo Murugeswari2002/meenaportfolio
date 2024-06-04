@@ -1,0 +1,16 @@
+.topnav{
+   
+    background-color: pink;
+  
+}
+a{
+    text-decoration: none;
+    color: red;
+}
+
+.bgimg{
+    background-image: url("/port/portimage/imageee.avif");
+    padding-bottom: 500px;
+    background-repeat: no-repeat;
+    
+}

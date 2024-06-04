@@ -1,0 +1,75 @@
+nav{
+    background-color: black;
+    position: sticky;
+    top: 0px;
+    
+}
+ul li{
+    display: inline-block;
+    color: beige;
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-left: 75px;
+    cursor: pointer;
+    
+}
+.div2{
+    height: 300px;
+    width: 300px;
+    background-color:  rgb(145, 168, 40);
+    color: rgb(59, 3, 110);
+    margin-left: 100px;
+    display: inline-block;
+    cursor:default;
+    position:relative;
+    top: 10px;
+    opacity: 0.6;
+    background:linear-gradient(red,green);
+
+
+
+}
+.div3{
+    height: 300px;
+    width: 300px;
+    background-color: rgb(129, 49, 182);
+    display: inline-block;
+    cursor:default;
+    position: relative;
+    top: 10px;
+   
+    background:repeating-conic-gradient(rgba(255, 0, 0, 0.164) 0deg 10deg,rgb(204, 204, 80) 10deg 20deg,rgba(0, 0, 255, 0.438) 20deg 30deg),url(image/f4.jpg);
+    
+}
+.div4{
+    height: 300px;
+    width: 300px;
+    background-color:  rgb(78, 10, 10);
+    display: inline-block;
+    cursor:default;
+    position: relative;
+    top:10px;
+    opacity: 0.9;
+    background:radial-gradient(blue,yellow,orange,black)
+}
+
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+
+
+
+/* C:\Users\Iyyappan k Nanda\Desktop\brand\f4.jpg */
+
+
+    
+
+
+
+
+
+
