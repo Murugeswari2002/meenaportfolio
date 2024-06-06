@@ -1,0 +1,68 @@
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.topnav a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+.topnav{
+    background-color: rgba(11, 206, 174, 0.877);
+}
+button:hover{
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    text-align: center;
+    background-color: rgba(11,206,175);    border-radius: 5px;
+}
+.bgcolour{
+   background-color: rgb(29,30,34);
+
+    
+}
+.container{
+    padding-top: 50px;
+    
+
+    
+}
+.container1{
+    text-align: center;
+    background-color: rgba(11,206,175);
+        padding-top: 30px;
+    padding-bottom: 20px;
+    margin: auto;
+    
+}
+.container2{
+    text-align: center;
+    padding-top: 30px;
+    
+}
+
+.cardheight{
+    height: 125px;
+    
+    
+}
+.cardcolor{
+    background-color: rgba(11,206,175);
+}
+.container3{
+    text-align: center;
+    background-color: black;
+    padding-top: 40px;
+    color: white;
+    padding-bottom: 20px;
+
+}
+.image1{
+    height: 200px;
+    width: 200px;
+}
+.container3 a{
+    text-decoration: none;
+    color: aliceblue;
+}
